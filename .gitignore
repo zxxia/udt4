@@ -1,2 +1,5 @@
 .ccls
 .ccls-cache
+*.o
+*.a
+*.so
